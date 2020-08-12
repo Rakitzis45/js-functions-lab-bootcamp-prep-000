@@ -2,7 +2,7 @@
 function happyHolidays() {
   return "Happy holidays!"
 }
-console.log(happyHolidays());
+console.log(happyHolidays(name));
 
 function happyHolidaysTo(){
   return `Happy holidays ${name}!`;
